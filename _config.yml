@@ -1,0 +1,28 @@
+name: factsandfotos
+favicon: null
+layout_spectrum: 0.12381261424161494
+typography_spectrum: 0.45592471957206726
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.012416958576068282
+  lightness: 0.8109173330012709
+  saturation: 0.8182711061090231
+  rhythmicContrast: 0.43400961393490434
+purpose: []
