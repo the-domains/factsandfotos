@@ -2,6 +2,7 @@ name: factsandfotos
 favicon: null
 layout_spectrum: 0.70832
 typography_spectrum: 0.45592471957206726
+title: factsandfotos
 cta:
   domain: null
   bucket: null
